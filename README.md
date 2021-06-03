@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+
+Estudante de Ciência da Computação, 3° período. 
+
 ![Snake animation](https://github.com/alofrrr/alofrrr/blob/output/github-contribution-grid-snake.svg)
 
 <!--
