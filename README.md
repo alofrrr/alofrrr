@@ -1,4 +1,3 @@
-### Ei, eu sou a Ana!
 
 <div>
   <a href="https://github.com/alofrrr">
