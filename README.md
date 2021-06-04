@@ -1,6 +1,6 @@
 ### Hi there!
 
-Estudante de Ciência da Computação, 3° período. 
+Já dizia o JSON, sem comentários.
 
 ![Snake animation](https://github.com/alofrrr/alofrrr/blob/output/github-contribution-grid-snake.svg)
 
