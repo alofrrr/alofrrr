@@ -14,13 +14,6 @@
 
 ###
 <div align="center">
-  <a href="https://open.spotify.com/user/alofrrr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" width="62" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" width="62" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" width="62" alt="javascript logo"  />
@@ -40,8 +33,6 @@
 ![Snake animation](https://github.com/alofrrr/alofrrr/blob/output/github-contribution-grid-snake.svg)
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alofrrr/count.svg?"  />
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://profile-counter.glitch.me/alofrrr/count.svg?" align="flex-end"/>
 
-###
