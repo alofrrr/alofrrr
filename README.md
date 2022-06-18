@@ -28,6 +28,6 @@
 ###
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<img src="https://i.pinimg.com/originals/89/c2/e5/89c2e58a1b6c95a20c29b7fad3787034.jpg" height="110" width="150" alt="picapau bebendo cafezinho"  />
+<img src="https://i.pinimg.com/originals/89/c2/e5/89c2e58a1b6c95a20c29b7fad3787034.jpg" height="110" width="170" alt="picapau bebendo cafezinho"  />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
