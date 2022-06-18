@@ -27,6 +27,5 @@
 ###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ###
 ![Snake animation](https://github.com/alofrrr/alofrrr/blob/output/github-contribution-grid-snake.svg)
