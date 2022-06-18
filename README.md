@@ -1,7 +1,7 @@
 <h2 align="center">Olá, tudo bem?</h2>
 <h3 align="center">Eu me chamo Ana e sou desenvolvedora front-end, também sou estudante de ciência da computação, atualmente cursando o 5° período pela Unipac de Barbacena - MG.</h3>
 
-[<img alt="alt_text" width="820px" src="https://i.imgur.com/E4tLx4Z.png" />](https://alofrrr.github.io/Card-AnaLaura-RGB/)
+[<img alt="alt_text" width="850px" src="https://i.imgur.com/E4tLx4Z.png" />](https://alofrrr.github.io/Card-AnaLaura-RGB/)
 
 ###
 <div align="center">
