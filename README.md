@@ -1,6 +1,9 @@
-### Olá, tudo bem?
-#### Eu me chamo Ana e sou desenvolvedora front-end, também sou estudante de ciência da computação, atualmente cursando o 5° período pela Unipac de Barbacena - MG.
-##### 👩‍💻 [Contato Ana Laura](https://alofrrr.github.io/Card-AnaLaura-RGB/) 👩‍💻
+<h3 align="center">Olá, tudo bem?</h3>
+<h4 align="center">Eu me chamo Ana e sou desenvolvedora front-end, também sou estudante de ciência da computação, atualmente cursando o 5° período pela Unipac de Barbacena - MG.</h4>
+
+ 👩‍💻 [Contato Ana Laura](https://alofrrr.github.io/Card-AnaLaura-RGB/) 👩‍💻
+[![name](https://c.tenor.com/B6Kjm29rXgsAAAAi/centilia-tap-here.gif)](https://alofrrr.github.io/Card-AnaLaura-RGB/)
+
 
 ###
 <div align="center">
