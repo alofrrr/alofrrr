@@ -1,8 +1,7 @@
 <h3 align="center">Olá, tudo bem?</h3>
 <h4 align="center">Eu me chamo Ana e sou desenvolvedora front-end, também sou estudante de ciência da computação, atualmente cursando o 5° período pela Unipac de Barbacena - MG.</h4>
 
- 👩‍💻 [Contato Ana Laura](https://alofrrr.github.io/Card-AnaLaura-RGB/) 👩‍💻
-[![name](https://c.tenor.com/B6Kjm29rXgsAAAAi/centilia-tap-here.gif)](https://alofrrr.github.io/Card-AnaLaura-RGB/)
+[![contato](https://images.squarespace-cdn.com/content/v1/56087b8ce4b0e52bb622be49/1603236888401-DLX6QAOG8WALNFAWPWLH/Spark-Tap-1.gif?format=2500w)](https://alofrrr.github.io/Card-AnaLaura-RGB/)
 
 
 ###
