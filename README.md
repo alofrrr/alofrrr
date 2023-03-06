@@ -1,17 +1,6 @@
 <h2 align="center">Olá, tudo bem?</h2>
 <h3 align="center">Eu me chamo Ana e sou desenvolvedora front-end, também sou estudante de ciência da computação, atualmente cursando o 7° período pela Unipac de Barbacena - MG.</h3>
 
-[DevNalaura](https://www.devnalaura.tech)
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#meu-site">Clique aqui para acessar meu site</a>
-    </td>
-  </tr>
-</table>
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=alofrrr" height="150" alt="stats graph"  />
