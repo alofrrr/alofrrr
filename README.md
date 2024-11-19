@@ -24,6 +24,8 @@
 </div>
 
 ###
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&redirect=true)
+</div>
+
 
