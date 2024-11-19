@@ -23,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46" width="65" alt="github logo"  />
 </div>
 
-###
-<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&redirect=true)
-</div>
-
+<img src="https://i.pinimg.com/originals/89/c2/e5/89c2e58a1b6c95a20c29b7fad3787034.jpg" height="170" width="200" alt="picapau bebendo cafezinho"  />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21r2m7lynhuym3ccifqdwl5wi&redirect=true)
 
