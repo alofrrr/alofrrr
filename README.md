@@ -1,5 +1,5 @@
 <h2 align="center">Olá, tudo bem?</h2>
-<h3 align="center">Eu me chamo Ana e sou desenvolvedora front-end, formada de ciência da computação e pós-graduanda em Arquitetura e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Eu me chamo Ana, sou desenvolvedora front-end, formada de ciência da computação e pós-graduanda em Arquitetura e Desenvolvimento de Sistemas.</h3>
 
 ###
 <div align="center">
